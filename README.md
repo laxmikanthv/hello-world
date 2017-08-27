@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-I want to be a good programmer
+I am cloning this file into my local machine
